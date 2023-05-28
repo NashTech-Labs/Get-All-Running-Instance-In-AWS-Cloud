@@ -16,8 +16,13 @@ Step 2. Now you need to install the boto3[ Python package] in your system and yo
 
 ```
 pip3 install boto3
+
 ```
 
+or you can install the requirements.txt file using the below command:
+```
+pip3 install requirements.txt
+```
 Step 3. Now you can run the python code using below command:
 
 ```
