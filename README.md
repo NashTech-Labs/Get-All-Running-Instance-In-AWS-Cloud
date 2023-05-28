@@ -19,7 +19,8 @@ pip3 install boto3
 
 ```
 
-or you can install the requirements.txt file using the below command:
+or you can install the requirements.txt file which has all required package to run the python code  using the below command:
+
 ```
 pip3 install requirements.txt
 ```
