@@ -5,11 +5,13 @@
 
 ### Please follow the below steps to run this script..
 
-#### Step 1. You should have the Access key and Secret key of your AWS account or you can create this keys from the aws. Now you need to run the below command:
+#### Step 1. You should have the Access key and Secret key of your AWS account or you can create this keys from the aws. Now you need to add them in the code:
 
 
 ```
-aws configure
+aws_access_key_id = '< >'
+aws_secret_access_key = '< >'
+aws_region = '< >'
 
 ````
 Step 2. Now you need to install the boto3[ Python package] in your system and you can run the below command to have boto3 in your system.
